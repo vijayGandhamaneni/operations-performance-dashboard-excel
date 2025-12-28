@@ -37,3 +37,8 @@ The dataset contains order-level operational data including:
 
 ## Outcome
 This dashboard enables stakeholders to quickly identify underperforming regions and supports data-driven decisions for improving operational efficiency and SLA performance.
+
+## How to Use
+1. Download the Excel file.
+2. Open it in MS Excel or Google Sheets.
+3. Navigate to the “dashboard” sheet to view pivots and insights.
